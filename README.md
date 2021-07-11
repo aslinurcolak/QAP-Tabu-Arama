@@ -9,6 +9,7 @@
 ![spyder2](https://user-images.githubusercontent.com/60961687/123553984-ae9c4b00-d786-11eb-881b-c8e028113cc5.png)
 5. main'i Aç'a tıkladıktan sonra kodumuz Spyder Notebookta derlenmeye hazır hale gelmekte.
 6. "Run" tuşuna basarak kodun çalıştığını, ve konsolda sonuçlarını yazdırdığımız bilgileri görebiliriz. 
-![spyder3](https://user-images.githubusercontent.com/60961687/123554094-28cccf80-d787-11eb-8b92-f05e86dacc37.png)
+![spyder](https://user-images.githubusercontent.com/60961687/125205635-e5e12080-e28b-11eb-902d-3618b907843e.png)
+
 
 
