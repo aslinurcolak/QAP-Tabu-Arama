@@ -1,8 +1,8 @@
 # QAP- Tabu Arama
  Karesel Atama Problemi için Tabu Arama Sezgiseli Geliştirilmesi
  Bu problemde 20 adet departmanın 20 farklı lokasyona yerleşimi yapılmak istenmektedir. Bu yerleşimler için dikkate alınması gereken departmanların arasındaki akış ve uzaklık ile değişecek olan akış maliyeti mevcuttur. 
- ![uzaklık matris](https://user-images.githubusercontent.com/60961687/125205842-ef1ebd00-e28c-11eb-8439-6b6786729915.PNG)
-![akış matris](https://user-images.githubusercontent.com/60961687/125205843-efb75380-e28c-11eb-9d53-e8ba589e9a6a.PNG)
+![uzaklık matris](https://user-images.githubusercontent.com/60961687/125205842-ef1ebd00-e28c-11eb-8439-6b6786729915.PNG) ![akış matris](https://user-images.githubusercontent.com/60961687/125205843-efb75380-e28c-11eb-9d53-e8ba589e9a6a.PNG)
+
 
 
 1. 507_hw2.py dosyasını indiriniz.
